@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>ABI L2+ Land Surface (Skin) Temperature</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">308.5924987793</MDI>
+      <MDI key="STATISTICS_MEAN">296.07257915715</MDI>
+      <MDI key="STATISTICS_MINIMUM">230.39749145508</MDI>
+      <MDI key="STATISTICS_STDDEV">4.7814828279961</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">78.03</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

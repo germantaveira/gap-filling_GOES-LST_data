@@ -1,0 +1,12 @@
+MAPA DE TEMPERATURAS EN SUPERFICIE.
+Datos LST GOES rellenados con  productos de pronóstico de temperatura a 2 m sobre el suelo de GFS, para las áreas con cobertura de nubes.
+
+Autor: MAIE 2022-2023
+
+Valores de temperatura expresados en grados Celsius (ºC).
+Fecha Datos GOES: 16/12/2022 Hora: 04:00 (UTC-3).
+Fecha Datos GFS: 16/12/2022 Hora Modelo: 00:00. Hora Pronostico: 04:00 (UTC-3).
+Porcentaje de pixeles rellenados     12.0 %.
+Porcentaje de pixeles originales     88.0 %.
+SRC: EPSG 4326.
+Resolucion espacial: ~0.13º.
