@@ -1,7 +1,7 @@
 ### Repository Name: gap-filling_GOES-WFS
 
 #### Description:
-This GitHub repository is dedicated to the automation of filling gaps in the GOES Land Surface Temperature (LST) data, specifically targeting instances of invalid or cloudy data. The methodology employed leverages the Weather Forecasting System (WFS) model data to enhance the accuracy and completeness of the GOES LST dataset.
+This GitHub repository is dedicated to the automation of frost calculation in South America. To do so, the code performs gap filling in GOES land surface temperature (LST) data, specifically focusing on cases of invalid or cloudy data. The methodology employed leverages Weather Forecast System (WFS) model data to improve the accuracy and integrity of the GOES LST dataset.
 
 #### Features:
 
@@ -17,12 +17,12 @@ This GitHub repository is dedicated to the automation of filling gaps in the GOE
 
 #### Requirements:
 - Python 3.x
-- Dependencies listed in requirements.txt
+- Dependencies listed in environment.yml
 
 #### Installation:
 
 ```bash
-pip install -r requirements.txt
+conda create -n env_frosts -f environment.yml
 ```
 
 #### Contributors:
