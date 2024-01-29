@@ -1,4 +1,5 @@
-### Repository Name: gap-filling_GOES-WFS
+
+### Frost calculation in South America from GOES land surface temperature (LST) data
 
 #### Description:
 This GitHub repository is dedicated to the automation of frost calculation in South America. To do so, the code performs gap filling in GOES land surface temperature (LST) data, specifically focusing on cases of invalid or cloudy data. The methodology employed leverages Weather Forecast System (WFS) model data to improve the accuracy and integrity of the GOES LST dataset.
